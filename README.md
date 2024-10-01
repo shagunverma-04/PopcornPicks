@@ -1,2 +1,3 @@
-# PopcornPicks
-content-based movie recommendation system
+PopcornPicks 
+-movie recomender system
+-content based filtering 
